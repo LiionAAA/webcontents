@@ -1,0 +1,13 @@
+div{
+    background-color: skyblue;
+    background-size: 200px 200px;
+    background-image: url('../Img/spongebob.jpg');
+    background-repeat: repeat-y;
+    background-position: center center;
+}
+div{
+    width: 400px;
+    height: 400px;
+    color: blueviolet;
+    font-size: 16px;
+}
