@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+a {
+    text-decoration: none;
+}
+@font-face {
+    font-family: '휴먼편지체';
+    src: url('../fonts/휴먼편지체.ttf');
+}
