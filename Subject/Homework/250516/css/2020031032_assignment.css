@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+}
+a {
+    text-decoration: none;
+}
+@font-face {
+    font-family: '휴먼편지체';
+    src: url('https://liionaaa.github.io/webcontents/Subject/Homework/250516/fonts/휴먼편지체.ttf');
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    text-align: left;
+    padding: 5px;
+    height: 15px;
+    width: 100px;
+}
+thead, tfoot {
+    background: darkgray;
+    color: yellow;
+}
+tbody tr:nth-child(even) {
+    background: aliceblue;
+}
+tbody td:hover {
+    background: pink;
+}
